@@ -1,4 +1,4 @@
-![logo](https://github.com/Suraj97988/Suraj97988/blob/main/suraj-profile-github.png)
+![logo](https://github.com/sumanth-1437/sumanth-1437/blob/main/Sumanth_GitHub_Banner_edited.png)
 
 # 💫 Hi 👋, I'm Sumanth Reddy
 **A passionate Data Analyst from India**
